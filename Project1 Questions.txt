@@ -1,0 +1,12 @@
+Project1 Questions
+
+What does work look like per region?
+Is there a correlation between age and perceived stress level?
+Is there a correlation between genders and perceived stress level?
+How are preceived stress levels viewed in light of available mental health help?
+How does perceived stress level align with different jobs?
+Is perceived stress level influenced by the remoteness of the work arrangement?
+Is perceived stress level influenced by the hours worked per week?
+How do perceived stress levels compare by continent of origin?
+How does activity level influence perceived stress level?
+
