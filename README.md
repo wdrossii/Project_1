@@ -10,15 +10,14 @@ With the chosen dataset, this project was to identify patterns in the mental hea
 
 ### Dependencies
 
-* https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health
+* https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health (author: Waqar Ali)
 * Modules: pandas, numpy, matplotlib.pyplot, %matplotlib inline, seaborn, scipy, scipy.stats
-
 
 ## Authors
 
-Melisa Teglas (meliteg@gmail.com)
-Tamya Louis (tamyalouis@gmail.com)
-Don Ross (ross.donross@gmail.com)
+* Melisa Teglas (meliteg@gmail.com)
+* Tamya Louis (tamyalouis@gmail.com)
+* Don Ross (ross.donross@gmail.com)
 
 ## Version History
 
