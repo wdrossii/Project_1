@@ -1,9 +1,0 @@
-Q:	What is the relationship between physical activity and work location? What about by region?
-
-	A:	Remote and Hybrid workers get more 'daily' and 'weekly' activity than onsite workers,  while Onsite workers have a higher instance of 'none' for activity.
-		Africa and Oceana have highest instances of 'daily' activity, with Asia, North American, and South America the lowest for 'daily' activity and fairly even. Asia 			has the highest instance of 'none', and North America has the lowest instance of 'weekly' activity.
-
-Q:	What is the relationship between work location and social isolation ratings? What about by mental health condition?
-
-	A:	There is a higher count/instance of Remote workers in the study, while they show the lowest average social isolation rating (possibly validate the data on 				this).
-		Onsite workers show a higher instance of Burnout, Hybrid workers show a higher instance of Anxiety, and Remote workers show a high instance of both Anxiety and 			Burnout, the instances on this are very similar (443 and 438 respectively).
